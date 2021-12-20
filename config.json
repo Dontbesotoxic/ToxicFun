@@ -1,7 +1,8 @@
 {
 	"prefix": "!",
-	"token": "your-bot-token",
-	"owner": "owner-id",
-	"client_id": "bot-id",
-	"test_guild_id": "dev-server-id"
+	"token": "OTIyNDY3NTA3NzAzNTEzMTM5.YcB40A.hlpLf53Y2ojyuhqIr9EcfKlc4BU",
+	"owner": "921402551700713523",
+	"client_id": "922467507703513139",
+	"test_guild_id": "922467741800202291",
+	"Moderation_role": "922467973015412757"
 }

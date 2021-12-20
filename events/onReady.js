@@ -1,6 +1,6 @@
 /**
  * @file Ready Event File.
- * @author Naman Vrati
+ * @author Dontbesotoxic
  * @since 1.0.0
  */
 

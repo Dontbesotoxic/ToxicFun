@@ -1,6 +1,6 @@
 /**
  * @file Sample Select-Menu interaction
- * @author Naman Vrati
+ * @author Dontbesotoxic
  * @since 3.0.0
  */
 
@@ -9,7 +9,7 @@ module.exports = {
 
 	/**
 	 * @description Executes when a select menu option with ID "sample" is clicked.
-	 * @author Naman Vrati
+	 * @author Dontbesotoxic
 	 * @param {Object} interaction The Interaction Object of the command.
 	 */
 

@@ -1,6 +1,6 @@
 /**
  * @file Sample help command with slash command.
- * @author Naman Vrati
+ * @author Dontbesotoxic
  * @since 3.0.0
  */
 
@@ -25,7 +25,7 @@ module.exports = {
 
 	/**
 	 * @description Executes when the interaction is called by interaction handler.
-	 * @author Naman Vrati
+	 * @author Dontbesotoxic
 	 * @param {*} interaction The interaction object of the command.
 	 */
 

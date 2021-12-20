@@ -84,7 +84,7 @@ I'm working to make it more professional and easy to use for everyone. There wil
 
 ## Authors
 
-👤 **Naman Vrati**
+👤 **Dontbesotoxic**
 
 - Website: https://namanvrati.cf/
 - Twitter: [@namanvrati](https://twitter.com/namanvrati)
@@ -108,7 +108,7 @@ You can also [sponsor](https://ko-fi.com/namanvrati) the project and get listed 
 
 ## 📝 License
 
-Copyright © 2021 [Naman Vrati](https://github.com/NamVr).<br />
+Copyright © 2021 [Dontbesotoxic](https://github.com/NamVr).<br />
 This project is [ISC](https://github.com/NamVr/DiscordBot-Template/blob/master/LICENSE) licensed.
 
 ---
