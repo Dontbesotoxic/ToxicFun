@@ -229,4 +229,8 @@ for (const folder of triggerFolders) {
 
 // Login into your client application with bot's token.
 
+//github.com/dontbesotoxic
+
+//toxicdev.xyz
+
 client.login(token);
